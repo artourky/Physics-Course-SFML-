@@ -1,0 +1,7 @@
+﻿  Particle.cpp
+c:\users\artou\source\repos\arb3yen\arb3yen\particle.cpp(51): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  arb3yen.vcxproj -> C:\Users\artou\source\repos\arb3yen\Debug\arb3yen.exe
